@@ -1,0 +1,8 @@
+__title__ = 'merchant_wallet'
+__description__ = 'Receive cryptocurrency payment, generate hd cryptocurrency wallet addresses and verifying payment made to an address.'
+__url__ = 'https://github.com/ydaniels/HD-Merchant-wallet'
+__version__ = '0.1.2'
+__author__ = 'Yomi D'
+__author_email__ = 'yomid4all@gmail.com'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2020 Yomi D'
